@@ -1,2 +1,3 @@
-# Recria-o-da-Interface-da-Netflix
-Repositório do Desafio de Projeto de recriação da interface da Netflix da DIO
+# Interface da Netflix em HTML
+
+Repositório do Desafio de Projeto em HTML de recriação da interface da Netflix da DIO
